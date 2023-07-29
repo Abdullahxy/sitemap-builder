@@ -52,7 +52,7 @@ Contributions to the Sitemap Builder are welcome! If you find any bugs, have sug
 
 ## Credits
 
-The Sitemap Builder is developed by [](https://github.com/abdullahxy). Special thanks to [Nokogiri](https://nokogiri.org/) for providing the powerful HTML and XML parsing library used in this project.
+The Sitemap Builder is developed by [Abdullah](https://github.com/abdullahxz). Special thanks to [Nokogiri](https://nokogiri.org/) for providing the powerful HTML and XML parsing library used in this project.
 
 ---
 
